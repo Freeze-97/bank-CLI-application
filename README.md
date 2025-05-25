@@ -4,14 +4,14 @@ This is a simple command-line based banking application written in C++. It allow
 
 ## 📁 Project Structure
 
-├── main.cpp # Entry point
-├── testProgram.h / testProgram.cpp # Program to test all classes and provide menu
-├── bank.h / bank.cpp # Core bank functionality
-├── konto.h / konto.cpp # Base account class (Konto)
-├── bankKund.h / bankKund.cpp # Bank customer class
-├── transactionAccount.h / transactionAccount.cpp # Transaction account (inherits Konto)
-├── savingsAccount.h / savingsAccount.cpp # Savings account (inherits Konto)
-├── longSavingsAccount.h / longSavingsAccount.cpp # Long-term savings account (inherits Konto)
+- `main.cpp` — Entry point  
+- `testProgram.h` / `testProgram.cpp` — Program to test all classes and provide menu  
+- `bank.h` / `bank.cpp` — Core bank functionality  
+- `konto.h` / `konto.cpp` — Base account class (Konto)  
+- `bankKund.h` / `bankKund.cpp` — Bank customer class  
+- `transactionAccount.h` / `transactionAccount.cpp` — Transaction account (inherits Konto)  
+- `savingsAccount.h` / `savingsAccount.cpp` — Savings account (inherits Konto)  
+- `longSavingsAccount.h` / `longSavingsAccount.cpp` — Long-term savings account (inherits Konto)
 
 ## 🔧 Features
 
