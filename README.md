@@ -9,8 +9,8 @@ This is a simple command-line based banking application written in C++. It allow
 ├── bank.h / bank.cpp # Core bank functionality
 ├── konto.h / konto.cpp # Base account class (Konto)
 ├── bankKund.h / bankKund.cpp # Bank customer class
-├── transactionAccount.h /  transactionAccount.cpp # Transaction account (inherits Konto)
-├── savingsAccount.h / savingsAccount.cpp  # Savings account (inherits Konto)
+├── transactionAccount.h / transactionAccount.cpp # Transaction account (inherits Konto)
+├── savingsAccount.h / savingsAccount.cpp # Savings account (inherits Konto)
 ├── longSavingsAccount.h / longSavingsAccount.cpp # Long-term savings account (inherits Konto)
 
 ## 🔧 Features
